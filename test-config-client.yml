@@ -1,0 +1,4 @@
+server:
+  port: 1240
+test:
+  string: 123456
